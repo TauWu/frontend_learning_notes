@@ -24,6 +24,10 @@ Basic info for this project.
 
 #### JS
 
+- :moon: [doc-source](./doc/javascript/README.md)
+- :moon: [dev-source](./code/javascript/README.md)
+- :sunny: [reference](http://www.runoob.com/js/js-tutorial.html)
+
 #### Node.js
 
 #### React
